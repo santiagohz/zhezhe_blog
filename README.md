@@ -10,15 +10,15 @@ Records of zhezhe's daily life
 #Github介绍
 > Github的中文参考资料：
 
-[1]:http://www.worldhello.net/gotgithub/index.html
+< http://www.worldhello.net/gotgithub/index.html >
 
 #Git的多用途
 > 如何高效利用GitHub 
 
-[1]:http://www.yangzhiping.com/tech/github.html
+< http://www.yangzhiping.com/tech/github.html >
 
 #学习如何通过Github搭建Blog
 
-[1]:http://beiyuu.com/github-pages/  
-[2]:http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html
-[3]:http://zipperary.com/categories/hexo/
+< http://beiyuu.com/github-pages/   >
+< http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html >
+< http://zipperary.com/categories/hexo/ >
